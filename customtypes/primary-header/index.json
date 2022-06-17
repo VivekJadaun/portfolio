@@ -1,0 +1,9 @@
+{
+  "id": "primary-header",
+  "label": "primary header",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}

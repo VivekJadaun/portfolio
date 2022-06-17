@@ -1,0 +1,10 @@
+{
+  "_cts": {
+    "pages": {},
+    "primary-header": {},
+    "primary-footer": {}
+  },
+  "slices": {
+    "HeaderTab": {}
+  }
+}

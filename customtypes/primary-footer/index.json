@@ -1,0 +1,9 @@
+{
+  "id": "primary-footer",
+  "label": "primary footer",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}
